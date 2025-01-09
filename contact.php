@@ -18,6 +18,7 @@
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">สวัสดีฉันชื่อดอรี่</li>
+				<li><a href="contact.php">มันคือออะไร เป็นแมวใช่ไหม หรือไม่ใช่แมว?</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
