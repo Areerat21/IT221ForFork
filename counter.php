@@ -16,3 +16,4 @@
     $sql = "Update counter set countnum = '$pgcount' where id = 1";
     $result = mysqli_query($link,$sql);
 ?>
+<li><a href="contact.php">แล้วนี่อะไรรรรรรรรรรร?</li>
